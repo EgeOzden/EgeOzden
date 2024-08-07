@@ -77,20 +77,20 @@
 
 - Health & Damage
 
-Battling Through Levels
+- Battling Through Levels
 
-Decorating The Dungeon
+- Decorating The Dungeon
 
-Moveable Objects
+- Moveable Objects
 
-Enemy Ammo Patterns
+- Enemy Ammo Patterns
 
-Dungeon Chests
+- Dungeon Chests
 
-Dungeon Overview Map
+- Dungeon Overview Map
 
-Game Music
+- Game Music
 
-Pause Menu
+- Pause Menu
 
-Main Menu
+- Main Menu
