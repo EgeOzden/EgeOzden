@@ -1,6 +1,6 @@
 ## Merhaba Ben Ege  👋
 
-###Şuanda aktif olarak 2D Unity tabanlı bir oyun geliştirme eğitimi ve pratiği yapmaktayım.
+### Şuanda aktif olarak 2D Unity tabanlı bir oyun geliştirme eğitimi ve pratiği yapmaktayım.
 
 
 
