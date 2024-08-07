@@ -1,6 +1,6 @@
 ## Merhaba Ben Ege  👋
 
-Şuanda 2D Unity oyun motoru ile RPG tabanlı bir geliştirme eğitimi ve pratiği yapmaktayım.
+Şu anda 2D Unity oyun motoru ile RPG tabanlı bir geliştirme eğitimi ve pratiği yapmaktayım.
 
 
 
