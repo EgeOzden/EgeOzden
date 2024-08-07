@@ -1,42 +1,76 @@
-## Dungeonus 2D Game Project RoadMap
+## Merhaba Ben Ege, şuanda aktif olarak 2D Unity tabanlı bir oyun geliştirme eğitimi ve pratiği yapmaktayım.
 
-Dungeon Room Editor
+## 🎮 Oyun Projesi İlerleme Durumu (Bu kısım düzenleniyor...)
 
-Main Game Scene Set-up
+### Genel İlerleme
+- **Toplam İlerleme:** 1%
+- **Tamamlanan Görevler:** 0/24
+- **Kalan Görevler:** 24
 
-Dungeon Room Templates
+### Tasarım
+- **Kapsam:** *%
+  - [ ] Oyun Mekanikleri Tasarımı (Kalan: %)
+  - [ ] UI/UX Tasarımı (Kalan: %)
 
-Dungeon Builder
+### Geliştirme
+- **Kapsam:** *%
+  - [ ] Ana Oyun Motoru Kurulumu (Kalan: %)
+  - [ ] Yapay Zeka (Kalan: %)
 
-Initial Player Set Up
+### Sanat ve Grafik
+- **Kapsam:** *%
+  - [ ] Karakter Modelleme (Kalan: %)
+  - [ ] Animasyonlar (Kalan: %)
 
-Player Movement & Control
+### Ses ve Müzik
+- **Kapsam:** *%
+  - [x] Arka Plan Müzikleri (Kalan: %)
+  - [ ] Sesli Diyaloglar (Kalan: %)
 
-Dungeon Doors & Lighting
+### Test
+- **Kapsam:** *%
+  - [ ] Kullanıcı Testleri (Kalan: %)
 
-Object Pooling
 
-Player Weapons & Ammo
+## Dungeonus 2D Proje Yol Haritası
 
-Sound Effects
+- Dungeon Room Editor
 
-MiniMap
+- Main Game Scene Set-up
 
-Weapon & Ammo Special Effects
+- Dungeon Room Templates
 
-Enemy Setup
+- Dungeon Builder
 
-Enemy Animations
+- Initial Player Set Up
 
-AStar Pathfinding
+- Player Movement & Control
 
-Enemy AI Movement
+- Dungeon Doors & Lighting
 
-Spawning Enemies
+- Object Pooling
 
-Enemy Weapons & Ammo
+- Player Weapons & Ammo
 
-Health & Damage
+- Sound Effects
+
+- MiniMap
+
+- Weapon & Ammo Special Effects
+
+- Enemy Setup
+
+- Enemy Animations
+
+- AStar Pathfinding
+
+- Enemy AI Movement
+
+- Spawning Enemies
+
+- Enemy Weapons & Ammo
+
+- Health & Damage
 
 Battling Through Levels
 
