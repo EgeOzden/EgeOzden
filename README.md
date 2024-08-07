@@ -5,7 +5,7 @@
 
 
 
-## 🎮 Dungeonus 2D Oyun Projesi İlerleme Durumu (Bu kısım düzenleniyor...)
+## 🎮 Dungeonus 2D Oyun Projesi İlerleme Durumu (düzenleniyor...)
 
 ### Genel İlerleme
 - **Toplam İlerleme:** 1%
