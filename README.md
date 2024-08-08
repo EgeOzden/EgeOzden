@@ -13,22 +13,21 @@
 - **Kalan Görevler:** 28
 
 ### Tasarım
-<details>
-  <summary>- **Kapsam:** 35% (Kalan: %)</summary>
-    <ul>
-      <li>  - [ ] Oyun Mekanikleri Tasarımı</li>
-      <li>    - [ ] UI/UX Tasarımı</li>
-      <li>    - [ ] Oyun Konsepti ve Senaryo</li>
-      <li>    - [ ] Seviye ve Çevre Tasarımı</li>
-      <li>    - [ ] Oynanış Testleri ve Dengeleme</li>
-    <ul>
-</details>
+
+- **Kapsam:** 35% (Kalan: %)
+  - [ ] Oyun Mekanikleri Tasarımı
+  - [ ] UI/UX Tasarımı
+  - [ ] Oyun Konsepti ve Senaryo
+  - [ ] Seviye ve Çevre Tasarımı
+  - [ ] Oynanış Testleri ve Dengeleme
+
 ### Geliştirme
 - **Kapsam:** 45%  (Kalan: %)
   - [ ] Oyun Motoru ve Teknolojileri Kurulumu
   - [ ] Yapay Zeka, Fizik ve Hareketler
   - [ ] 3. parti ve platforma Özgü Entegrasyonlar
   - [ ] Optimizasyon, Performans İyileştirmeleri
+
 ### Sanat ve Grafik
 - **Kapsam:** 15%  (Kalan: %)
   - [ ] Karakter, Çevre, Araç ve Obje Modellemeleri
@@ -36,12 +35,14 @@
   - [ ] Kamera ve Görüntüleme
   - [ ] Görsel efektler, partikül ve ışıklandırma
   - [ ] UI/IX Görsel Tasarımları
+
 ### Ses ve Müzik
 - **Kapsam:** 5% (Kalan: %)
   - [ ] Arka Plan Müzikleri
   - [ ] Sesli Diyaloglar
   - [ ] Karakter, Etkileşim, Çevre, Arka plan, Olay Sesleri
   - [ ] Ses testi, optimizasyonu ve uyumlulukları
+
 ### Test
 - **Kapsam:** *% (Kalan: %)
   - [ ] Oynanış testleri ve hata ayıklama
