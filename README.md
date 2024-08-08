@@ -14,11 +14,15 @@
 
 ### Tasarım
 - **Kapsam:** 35% (Kalan: %)
-  - [ ] Oyun Mekanikleri Tasarımı
-  - [ ] UI/UX Tasarımı
-  - [ ] Oyun Konsepti ve Senaryo
-  - [ ] Seviye ve Çevre Tasarımı
-  - [ ] Oynanış Testleri ve Dengeleme
+<details>
+    <ul>
+      <li>  - [ ] Oyun Mekanikleri Tasarımı</li>
+      <li>    - [ ] UI/UX Tasarımı</li>
+      <li>    - [ ] Oyun Konsepti ve Senaryo</li>
+      <li>    - [ ] Seviye ve Çevre Tasarımı</li>
+      <li>    - [ ] Oynanış Testleri ve Dengeleme</li>
+    <ul>
+</details>
 ### Geliştirme
 - **Kapsam:** 45%  (Kalan: %)
   - [ ] Oyun Motoru ve Teknolojileri Kurulumu
@@ -104,14 +108,14 @@
 
 - Main Menu
 
-<details>
+
   <summary>Özellik 1</summary>
   <ul>
     <li>Özellik 1.1</li>
     <li>Özellik 1.2</li>
     <li>Özellik 1.3</li>
   </ul>
-</details>
+
 
 <details>
   <summary>Özellik 2</summary>
