@@ -103,3 +103,21 @@
 - Pause Menu
 
 - Main Menu
+
+<details>
+  <summary>Özellik 1</summary>
+  <ul>
+    <li>Özellik 1.1</li>
+    <li>Özellik 1.2</li>
+    <li>Özellik 1.3</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Özellik 2</summary>
+  <ul>
+    <li>Özellik 2.1</li>
+    <li>Özellik 2.2</li>
+    <li>Özellik 2.3</li>
+  </ul>
+</details>
