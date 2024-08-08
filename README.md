@@ -44,8 +44,6 @@
   - [ ] Platform uyumluluğu testleri (Kalan: %)
   - [ ] Performans Testleri (Kalan: %)
   - [ ] Kullanıcı Deneyimi Testleri (Kalan: %)
-![image](https://github.com/user-attachments/assets/51fae697-7a6a-45bd-8ebb-1a77ffb4a6a7)
-
 
 
 ## Dungeonus 2D Proje Yol Haritası
