@@ -9,41 +9,41 @@
 
 ### Genel İlerleme
 - **Toplam İlerleme:** 1%
-- **Tamamlanan Görevler:** 0/24
-- **Kalan Görevler:** 24
+- **Tamamlanan Görevler:** 0/28
+- **Kalan Görevler:** 28
 
 ### Tasarım
-- **Kapsam:** *%
-  - [ ] Oyun Mekanikleri Tasarımı (Kalan: %)
-  - [ ] UI/UX Tasarımı (Kalan: %)
-  - [ ] Oyun Konsepti ve Senaryo (Kalan: %)
-  - [ ] Seviye ve Çevre Tasarımı (Kalan: %)
-  - [ ] Oynanış Testleri ve Dengeleme (Kalan: %)
+- **Kapsam:** 35% (Kalan: %)
+  - [ ] Oyun Mekanikleri Tasarımı
+  - [ ] UI/UX Tasarımı
+  - [ ] Oyun Konsepti ve Senaryo
+  - [ ] Seviye ve Çevre Tasarımı
+  - [ ] Oynanış Testleri ve Dengeleme
 ### Geliştirme
-- **Kapsam:** *%
-  - [ ] Oyun Motoru ve Teknolojileri Kurulumu (Kalan: %)
-  - [ ] Yapay Zeka, Fizik ve Hareketler (Kalan: %)
-  - [ ] 3. parti ve platforma Özgü Entegrasyonlar (Kalan: %)
-  - [ ] Optimizasyon, Performans İyileştirmeleri (Kalan: %)
+- **Kapsam:** 45%  (Kalan: %)
+  - [ ] Oyun Motoru ve Teknolojileri Kurulumu
+  - [ ] Yapay Zeka, Fizik ve Hareketler
+  - [ ] 3. parti ve platforma Özgü Entegrasyonlar
+  - [ ] Optimizasyon, Performans İyileştirmeleri
 ### Sanat ve Grafik
-- **Kapsam:** *%
-  - [ ] Karakter, Çevre, Araç ve Obje Modellemeleri (Kalan: %)
-  - [ ] Animasyonlar, Dokular (Kalan: %)
-  - [ ] Kamera ve Görüntüleme (Kalan: %)
-  - [ ] Görsel efektler, partikül ve ışıklandırma (Kalan: %)
-  - [ ] UI/IX Görsel Tasarımları (Kalan: %)
+- **Kapsam:** 15%  (Kalan: %)
+  - [ ] Karakter, Çevre, Araç ve Obje Modellemeleri
+  - [ ] Animasyonlar, Dokular 
+  - [ ] Kamera ve Görüntüleme
+  - [ ] Görsel efektler, partikül ve ışıklandırma
+  - [ ] UI/IX Görsel Tasarımları
 ### Ses ve Müzik
-- **Kapsam:** *%
-  - [ ] Arka Plan Müzikleri (Kalan: %)
-  - [ ] Sesli Diyaloglar (Kalan: %)
-  - [ ] Karakter, Etkileşim, Çevre, Arka plan, Olay Sesleri (Kalan: %)
-  - [ ] Ses testi, optimizasyonu ve uyumlulukları (Kalan: %)
+- **Kapsam:** 5% (Kalan: %)
+  - [ ] Arka Plan Müzikleri
+  - [ ] Sesli Diyaloglar
+  - [ ] Karakter, Etkileşim, Çevre, Arka plan, Olay Sesleri
+  - [ ] Ses testi, optimizasyonu ve uyumlulukları
 ### Test
-- **Kapsam:** *%
-  - [ ] Oynanış testleri ve hata ayıklama (Kalan: %)
-  - [ ] Platform uyumluluğu testleri (Kalan: %)
-  - [ ] Performans Testleri (Kalan: %)
-  - [ ] Kullanıcı Deneyimi Testleri (Kalan: %)
+- **Kapsam:** *% (Kalan: %)
+  - [ ] Oynanış testleri ve hata ayıklama
+  - [ ] Platform uyumluluğu testleri
+  - [ ] Performans Testleri
+  - [ ] Kullanıcı Deneyimi Testleri
 
 
 ## Dungeonus 2D Proje Yol Haritası
