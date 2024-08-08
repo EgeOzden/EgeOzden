@@ -55,61 +55,61 @@
 <summary>✈ Dungeonus 2D Proje Yol Haritası</summary>
   <ul>
 <br>
-<li>- Dungeon Room Editor</li>
+<li> Dungeon Room Editor</li>
 
-<li>- Main Game Scene Set-up</li>
+<li> Main Game Scene Set-up</li>
 
-<li>- Dungeon Room Templates</li>
+<li> Dungeon Room Templates</li>
 
-<li>- Dungeon Builder</li>
+<li> Dungeon Builder</li>
 
-<li>- Initial Player Set Up</li>
+<li> Initial Player Set Up</li>
 
-<li>- Player Movement & Control</li>
+<li> Player Movement & Control</li>
 
-<li>- Dungeon Doors & Lighting</li>
+<li> Dungeon Doors & Lighting</li>
 
-<li>- Object Pooling</li>
+<li> Object Pooling</li>
 
-<li>- Player Weapons & Ammo</li>
+<li> Player Weapons & Ammo</li>
 
-<li>- Sound Effects</li>
+<li> Sound Effects</li>
 
-<li>- MiniMap</li>
+<li> MiniMap</li>
 
-<li>- Weapon & Ammo Special Effects</li>
+<li> Weapon & Ammo Special Effects</li>
 
-<li>- Enemy Setup</li>
+<li> Enemy Setup</li>
 
-<li>- Enemy Animations</li>
+<li> Enemy Animations</li>
 
-<li>- AStar Pathfinding</li>
+<li> AStar Pathfinding</li>
 
-<li>- Enemy AI Movement</li>
+<li> Enemy AI Movement</li>
 
-<li>- Spawning Enemies</li>
+<li> Spawning Enemies</li>
 
-<li>- Enemy Weapons & Ammo</li>
+<li> Enemy Weapons & Ammo</li>
 
-<li>- Health & Damage</li>
+<li> Health & Damage</li>
 
-<li>- Battling Through Levels</li>
+<li> Battling Through Levels</li>
 
-<li>- Decorating The Dungeon</li>
+<li> Decorating The Dungeon</li>
 
-<li>- Moveable Objects</li>
+<li> Moveable Objects</li>
 
-<li>- Enemy Ammo Patterns</li>
+<li> Enemy Ammo Patterns</li>
 
-<li>- Dungeon Chests</li>
+<li> Dungeon Chests</li>
 
-<li>- Dungeon Overview Map</li>
+<li> Dungeon Overview Map</li>
 
-<li>- Game Music</li>
+<li> Game Music</li>
 
-<li>- Pause Menu</li>
+<li> Pause Menu</li>
 
-<li>- Main Menu</li>
+<li> Main Menu</li>
 
   </ul> 
 </details>
