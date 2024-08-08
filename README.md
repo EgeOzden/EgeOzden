@@ -54,7 +54,7 @@
 <details>
 <summary>✈ Dungeonus 2D Proje Yol Haritası</summary>
   <ul>
-<li>🚉</li>
+<br><br>
 <li>- Dungeon Room Editor</li>
 
 <li>- Main Game Scene Set-up</li>
