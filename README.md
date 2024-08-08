@@ -50,6 +50,7 @@
   - [ ] Performans Testleri
   - [ ] Kullanıcı Deneyimi Testleri
 
+<br><br>
 
 <details>
 <summary>✈ Dungeonus 2D Proje Yol Haritası</summary>
