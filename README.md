@@ -53,7 +53,7 @@
 <br>
 
 <details>
-<summary>&nbsp✈ <b>Dungeonus 2D Proje Yol Haritası</b></summary>
+<summary>&nbsp <b>Dungeonus 2D Proje Yol Haritası</b> ✈</summary>
   <ul>
 <br>
 <li> Dungeon Room Editor</li>
