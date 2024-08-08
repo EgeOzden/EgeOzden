@@ -51,78 +51,64 @@
   - [ ] Kullanıcı Deneyimi Testleri
 
 
-## Dungeonus 2D Proje Yol Haritası
-
-- Dungeon Room Editor
-
-- Main Game Scene Set-up
-
-- Dungeon Room Templates
-
-- Dungeon Builder
-
-- Initial Player Set Up
-
-- Player Movement & Control
-
-- Dungeon Doors & Lighting
-
-- Object Pooling
-
-- Player Weapons & Ammo
-
-- Sound Effects
-
-- MiniMap
-
-- Weapon & Ammo Special Effects
-
-- Enemy Setup
-
-- Enemy Animations
-
-- AStar Pathfinding
-
-- Enemy AI Movement
-
-- Spawning Enemies
-
-- Enemy Weapons & Ammo
-
-- Health & Damage
-
-- Battling Through Levels
-
-- Decorating The Dungeon
-
-- Moveable Objects
-
-- Enemy Ammo Patterns
-
-- Dungeon Chests
-
-- Dungeon Overview Map
-
-- Game Music
-
-- Pause Menu
-
-- Main Menu
-
-
-  <summary>Özellik 1</summary>
-  <ul>
-    <li>Özellik 1.1</li>
-    <li>Özellik 1.2</li>
-    <li>Özellik 1.3</li>
-  </ul>
-
-
 <details>
-Özellik 2</summary>
+## <summary>Dungeonus 2D Proje Yol Haritası</summary>
   <ul>
-    <li>Özellik 2.1</li>
-    <li>Özellik 2.2</li>
-    <li>Özellik 2.3</li>
-  </ul>
+- <li>Dungeon Room Editor</li>
+
+- <li>Main Game Scene Set-up</li>
+
+- <li>Dungeon Room Templates</li>
+
+- <li>Dungeon Builder</li>
+
+- <li>Initial Player Set Up</li>
+
+- <li>Player Movement & Control</li>
+
+- <li>Dungeon Doors & Lighting</li>
+
+- <li>Object Pooling</li>
+
+- <li>Player Weapons & Ammo</li>
+
+- <li>Sound Effects</li>
+
+- <li>MiniMap</li>
+
+- <li>Weapon & Ammo Special Effects</li>
+
+- <li>Enemy Setup</li>
+
+- <li>Enemy Animations</li>
+
+- <li>AStar Pathfinding</li>
+
+- <li>Enemy AI Movement</li>
+
+- <li>Spawning Enemies</li>
+
+- <li>Enemy Weapons & Ammo</li>
+
+- <li>Health & Damage</li>
+
+- <li>Battling Through Levels</li>
+
+- <li>Decorating The Dungeon</li>
+
+- <li>Moveable Objects</li>
+
+- <li>Enemy Ammo Patterns</li>
+
+- <li>Dungeon Chests</li>
+
+- <li>Dungeon Overview Map</li>
+
+- <li>Game Music</li>
+
+- <li>Pause Menu</li>
+
+- <li>Main Menu</li>
+
+  </ul> 
 </details>
