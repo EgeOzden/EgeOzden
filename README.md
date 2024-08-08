@@ -5,7 +5,7 @@
 
 
 
-## 🎮 Dungeonus 2D Oyun Projesi İlerleme Durumu (düzenleniyor...)
+## 🎮 Dungeonus 2D Proje İlerleme Durumu 
 
 ### Genel İlerleme
 - **Toplam İlerleme:** 1%
@@ -16,25 +16,36 @@
 - **Kapsam:** *%
   - [ ] Oyun Mekanikleri Tasarımı (Kalan: %)
   - [ ] UI/UX Tasarımı (Kalan: %)
-
+  - [ ] Oyun Konsepti ve Senaryo (Kalan: %)
+  - [ ] Seviye ve Çevre Tasarımı (Kalan: %)
+  - [ ] Oynanış Testleri ve Dengeleme (Kalan: %)
 ### Geliştirme
 - **Kapsam:** *%
-  - [ ] Ana Oyun Motoru Kurulumu (Kalan: %)
-  - [ ] Yapay Zeka (Kalan: %)
-
+  - [ ] Oyun Motoru ve Teknolojileri Kurulumu (Kalan: %)
+  - [ ] Yapay Zeka, Fizik ve Hareketler (Kalan: %)
+  - [ ] 3. parti ve platforma Özgü Entegrasyonlar (Kalan: %)
+  - [ ] Optimizasyon, Performans İyileştirmeleri (Kalan: %)
 ### Sanat ve Grafik
 - **Kapsam:** *%
-  - [ ] Karakter Modelleme (Kalan: %)
-  - [ ] Animasyonlar (Kalan: %)
-
+  - [ ] Karakter, Çevre, Araç ve Obje Modellemeleri (Kalan: %)
+  - [ ] Animasyonlar, Dokular (Kalan: %)
+  - [ ] Kamera ve Görüntüleme (Kalan: %)
+  - [ ] Görsel efektler, partikül ve ışıklandırma (Kalan: %)
+  - [ ] UI/IX Görsel Tasarımları (Kalan: %)
 ### Ses ve Müzik
 - **Kapsam:** *%
-  - [x] Arka Plan Müzikleri (Kalan: %)
+  - [ ] Arka Plan Müzikleri (Kalan: %)
   - [ ] Sesli Diyaloglar (Kalan: %)
-
+  - [ ] Karakter, Etkileşim, Çevre, Arka plan, Olay Sesleri (Kalan: %)
+  - [ ] Ses testi, optimizasyonu ve uyumlulukları (Kalan: %)
 ### Test
 - **Kapsam:** *%
-  - [ ] Kullanıcı Testleri (Kalan: %)
+  - [ ] Oynanış testleri ve hata ayıklama (Kalan: %)
+  - [ ] Platform uyumluluğu testleri (Kalan: %)
+  - [ ] Performans Testleri (Kalan: %)
+  - [ ] Kullanıcı Deneyimi Testleri (Kalan: %)
+![image](https://github.com/user-attachments/assets/51fae697-7a6a-45bd-8ebb-1a77ffb4a6a7)
+
 
 
 ## Dungeonus 2D Proje Yol Haritası
