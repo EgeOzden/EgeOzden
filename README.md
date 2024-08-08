@@ -14,7 +14,7 @@
 
 ### Tasarım
 
-- **Kapsam:** 35% (Kalan: %)
+- **Kapsam:** 35%
   - [ ] Oyun Mekanikleri Tasarımı
   - [ ] UI/UX Tasarımı
   - [ ] Oyun Konsepti ve Senaryo
@@ -22,14 +22,14 @@
   - [ ] Oynanış Testleri ve Dengeleme
 
 ### Geliştirme
-- **Kapsam:** 45%  (Kalan: %)
+- **Kapsam:** 45%
   - [ ] Oyun Motoru ve Teknolojileri Kurulumu
   - [ ] Yapay Zeka, Fizik ve Hareketler
   - [ ] 3. parti ve platforma Özgü Entegrasyonlar
   - [ ] Optimizasyon, Performans İyileştirmeleri
 
 ### Sanat ve Grafik
-- **Kapsam:** 15%  (Kalan: %)
+- **Kapsam:** 15%
   - [ ] Karakter, Çevre, Araç ve Obje Modellemeleri
   - [ ] Animasyonlar, Dokular 
   - [ ] Kamera ve Görüntüleme
@@ -37,14 +37,14 @@
   - [ ] UI/IX Görsel Tasarımları
 
 ### Ses ve Müzik
-- **Kapsam:** 5% (Kalan: %)
+- **Kapsam:** 5%
   - [ ] Arka Plan Müzikleri
   - [ ] Sesli Diyaloglar
   - [ ] Karakter, Etkileşim, Çevre, Arka plan, Olay Sesleri
   - [ ] Ses testi, optimizasyonu ve uyumlulukları
 
 ### Test
-- **Kapsam:** *% (Kalan: %)
+- **Kapsam:** *%
   - [ ] Oynanış testleri ve hata ayıklama
   - [ ] Platform uyumluluğu testleri
   - [ ] Performans Testleri
