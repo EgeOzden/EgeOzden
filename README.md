@@ -13,8 +13,8 @@
 - **Kalan Görevler:** 28
 
 ### Tasarım
-- **Kapsam:** 35% (Kalan: %)
 <details>
+  <summary>- **Kapsam:** 35% (Kalan: %)</summary>
     <ul>
       <li>  - [ ] Oyun Mekanikleri Tasarımı</li>
       <li>    - [ ] UI/UX Tasarımı</li>
@@ -118,7 +118,7 @@
 
 
 <details>
-  <summary>Özellik 2</summary>
+Özellik 2</summary>
   <ul>
     <li>Özellik 2.1</li>
     <li>Özellik 2.2</li>
