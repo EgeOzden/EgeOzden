@@ -1,6 +1,6 @@
 ## Merhaba Ben Ege  👋
 
-Şu anda 2D Unity oyun motoru ile RPG tabanlı bir geliştirme yapmaktayım. Öğrenmekte olduğum eğitim içeriğine aşağıdaki linkten ulaşabilirsiniz.
+Şu anda 2D Unity oyun motoru ile RPG tabanlı bir geliştirme yapmaktayım. Öğrenmekte olduğum eğitim içeriğine aşağıdaki linkten ulaşabilirsiniz. Kurs eğitimleri tamamlandıktan sonra Dungeonus projesiyle ilerlenecektir.
 
 https://www.udemy.com/share/101Wjs/
 
