@@ -12,7 +12,7 @@ https://www.udemy.com/share/101Wjs/
 - **Kalan Görevler:** 108
 
 <details>
-<summary>🔽 ###Detaylı Süreçler</summary>
+###<summary>🔽 Detaylı Süreçler</summary>
 ### Tasarım
 
 - **Kapsam:** 35%
