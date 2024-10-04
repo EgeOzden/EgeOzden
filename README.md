@@ -11,6 +11,7 @@ https://www.udemy.com/share/101Wjs/
 - **Tamamlanan Görevler:** 31/139
 - **Kalan Görevler:** 108
 
+<br><br>
 <details>
 <summary>🔽<b>Detaylı Süreçler</b></summary>
   
