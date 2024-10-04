@@ -2,15 +2,17 @@
 
 Şu anda 2D Unity oyun motoru ile RPG tabanlı bir geliştirme yapmaktayım. Öğrenmekte olduğum eğitim içeriğine aşağıdaki linkten ulaşabilirsiniz.
 
-https://www.udemy.com/share/105Z9y3@zOE3e0t6xoKb56MEjVxqYBL44rRTMV80_iRqNq_3YA4TWGYxG8nch9Smr-s8CQeC/
+https://www.udemy.com/share/101Wjs/
 
-## 🎮 Dungeonus 2D Proje İlerleme Durumu 
+## 🎮 Kurs İlerleme Durumu 
 
 ### Genel İlerleme
-- **Toplam İlerleme:** 1%
-- **Tamamlanan Görevler:** 0/28
-- **Kalan Görevler:** 28
+- **Toplam İlerleme:** 22,3%
+- **Tamamlanan Görevler:** 31/139
+- **Kalan Görevler:** 108
 
+<details>
+<summary>🔽</summary>
 ### Tasarım
 
 - **Kapsam:** 35%
@@ -49,6 +51,7 @@ https://www.udemy.com/share/105Z9y3@zOE3e0t6xoKb56MEjVxqYBL44rRTMV80_iRqNq_3YA4T
   - [ ] Performans Testleri
   - [ ] Kullanıcı Deneyimi Testleri
 
+</details>
 <br>
 
 <details>
