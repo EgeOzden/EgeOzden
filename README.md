@@ -7,8 +7,8 @@ https://www.udemy.com/share/101Wjs/
 ## 🎮 Kurs İlerleme Durumu 
 
 ### Genel İlerleme
-- **Toplam İlerleme:** 22,3%
-- **Tamamlanan Görevler:** 31/139
+- **Toplam İlerleme:** 25,9%
+- **Tamamlanan Görevler:** 36/139
 - **Kalan Görevler:** 108
 
 <br><br>
