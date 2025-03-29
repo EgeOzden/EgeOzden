@@ -8,8 +8,54 @@ KaosMutfak-3D / 26.03.2025
 
 ### Genel İlerleme
 - **Toplam İlerleme:** 10%
-- **Tamamlanan Görevler:** 9/48
-- **Kalan Görevler:** 38
+- **Tamamlanan Görevler:** 5/41
+- **Kalan Görevler:** 36
+
+<details>
+<summary>🔽<b>Teknik Süreçler</b></summary>
+  - [X] Create Project (initial)
+  - [X] Unity Layout
+  - [X] Importing Assets
+  - [X] Post Processing
+  - [X] Character Controller
+  - [ ] Character Visual, Rotation
+  - [ ] Animations
+  - [ ] Cinemachine
+  - [ ] Input System Refactor
+  - [ ] Collision Detection
+  - [ ] Clear Counter
+  - [ ] Interact Action, C# Events
+  - [ ] Selected Counter Visual, Singleton Pattern
+  - [ ] Kitchen Object, Scriptable Objects
+  - [ ] Kitchen Object Parent
+  - [ ] Player Pick up, C# Interfaces
+  - [ ] Container Counter
+  - [ ] Player Pick up, Drop Objects
+  - [ ] Cutting Counter, Interact Alternate
+  - [ ] Cutting Recipe SO
+  - [ ] Cutting Progress, World Canvas
+  - [ ] Look At Camera
+  - [ ] Trash Counter
+  - [ ] Stove Counter, State Machine
+  - [ ] Plates Counter
+  - [ ] Plate Pick up Objects
+  - [ ] Plate Complete Visual
+  - [ ] Plate World UI Icons
+  - [ ] Delivery Counter, Shader Graph
+  - [ ] Delivery Manager
+  - [ ] Delivery Manager UI
+  - [ ] Music
+  - [ ] Sound Effects
+  - [ ] Game Start
+  - [ ] Game Over
+  - [ ] Main Menu, Loading
+  - [ ] Pause, Clear Statics
+  - [ ] Options, Audio Levels
+  - [ ] Options, Key Rebinding
+  - [ ] Controller Input, Menu Navigation
+  - [ ] Polish
+</details>
+
 
 <details>
 <summary>🔽<b>Detaylı Süreçler</b></summary>
