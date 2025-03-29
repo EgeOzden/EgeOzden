@@ -1,15 +1,13 @@
 ## Merhaba Ben Ege  👋
 
-Şu anda 2D Unity oyun motoru ile RPG tabanlı bir geliştirme yapmaktayım. Öğrenmekte olduğum eğitim içeriğine aşağıdaki linkten ulaşabilirsiniz. Kurs eğitimleri tamamlandıktan sonra Dungeonus projesiyle ilerlenecektir.
+Şu anda 3D Unity oyun motoru ile geliştirme yapmaktayım.
 
-https://www.udemy.com/share/101Wjs/
-
-## 🎮 Kurs İlerleme Durumu 
+## 🎮 İlerleme Durumu 
 
 ### Genel İlerleme
-- **Toplam İlerleme:** 25,9%
-- **Tamamlanan Görevler:** 36/139
-- **Kalan Görevler:** 108
+- **Toplam İlerleme:** 10%
+- **Tamamlanan Görevler:** 9/48
+- **Kalan Görevler:** 38
 
 <br><br>
 <details>
@@ -57,7 +55,7 @@ https://www.udemy.com/share/101Wjs/
 <br>
 
 <details>
-<summary>&nbsp <b>Dungeonus 2D Proje Yol Haritası</b> ✈</summary>
+[//]<summary>&nbsp <b>Dungeonus 2D Proje Yol Haritası</b> ✈</summary>
   <ul>
 <br>
 <li> Dungeon Room Editor</li>
