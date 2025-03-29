@@ -9,7 +9,6 @@
 - **Tamamlanan Görevler:** 9/48
 - **Kalan Görevler:** 38
 
-<br><br>
 <details>
 <summary>🔽<b>Detaylı Süreçler</b></summary>
   
