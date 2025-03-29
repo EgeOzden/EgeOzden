@@ -2,7 +2,7 @@
 
 Şu anda 3D Unity oyun motoru ile geliştirme yapmaktayım.
 
-KaosMutfak / 26.03.2025
+KaosMutfak-3D / 26.03.2025
 
 ## 🎮 İlerleme Durumu 
 
