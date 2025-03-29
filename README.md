@@ -15,8 +15,8 @@ KaosMutfak-3D / 26.03.2025
 <summary>🔽<b>Teknik Süreçler</b></summary>
   </br>
   
-  -   [X] Create Project (initial)
-  -   [X] Unity Layout
+   -   [X] Create Project (initial)
+   -   [X] Unity Layout
   -   [X] Importing Assets
   -   [X] Post Processing
   -   [X] Character Controller
