@@ -13,6 +13,7 @@ KaosMutfak-3D / 26.03.2025
 
 <details>
 <summary>🔽<b>Teknik Süreçler</b></summary>
+  
   - [X] Create Project (initial)
   - [X] Unity Layout
   - [X] Importing Assets
@@ -53,7 +54,7 @@ KaosMutfak-3D / 26.03.2025
   - [ ] Options, Audio Levels
   - [ ] Options, Key Rebinding
   - [ ] Controller Input, Menu Navigation
-  - [ ] Polish
+  - [ ] Polish 
 </details>
 
 
