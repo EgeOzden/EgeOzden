@@ -7,9 +7,9 @@ KaosMutfak-3D / 26.03.2025 (devam eden)
 ## 🎮 İlerleme Durumu 
 
 ### Genel İlerleme
-- **Toplam İlerleme:** 10%
-- **Tamamlanan Görevler:** 5/41
-- **Kalan Görevler:** 36
+- **Toplam İlerleme:** 20%
+- **Tamamlanan Görevler:** 8/41
+- **Kalan Görevler:** 33
 
 <details>
 <summary>🔽<b>Teknik Süreçler</b></summary>
@@ -22,9 +22,9 @@ KaosMutfak-3D / 26.03.2025 (devam eden)
   -   [X] Importing Assets
   -   [X] Post Processing
   -   [X] Character Controller
-  -   [ ] Character Visual, Rotation
-  -   [ ] Animations
-  -   [ ] Cinemachine
+  -   [X] Character Visual, Rotation
+  -   [X] Animations
+  -   [X] Cinemachine
   -   [ ] Input System Refactor
   -   [ ] Collision Detection
   -   [ ] Clear Counter
